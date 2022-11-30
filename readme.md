@@ -13,8 +13,12 @@ It comes with the following functionalities:
 
 
 ## Setup
-Start with cloning the repo in whatever fashion suits you the best
+Start with cloning the repo in whatever fashion suits you the best. 
+For best practice it is highly recommended to setup a virtual environment(optional step)
+```bash
+$python3 -m <venvname> <path/to/your/venv/>
 
+```
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.py present in the base folder.
 
 ```bash
