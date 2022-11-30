@@ -84,11 +84,11 @@ WSGI_APPLICATION = 'OneFin.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'testi',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': 3306
+        'NAME': '<DB_NAME>',
+        'USER': '<USERNAME>',
+        'PASSWORD': '<PASSWORD>',
+        'HOST': '<HOST>',
+        'PORT': '<PORT>'
     }
 }
 
