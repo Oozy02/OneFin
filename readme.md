@@ -13,6 +13,7 @@ It comes with the following functionalities:
 
 
 ## Setup
+Start with cloning the repo in whatever fashion suits you the best
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.py present in the base folder.
 
